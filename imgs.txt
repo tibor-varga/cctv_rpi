@@ -1,0 +1,8 @@
+file '/home/pi/cctv_rpi/images/image_20190713_181901.jpg'
+duration 1
+file '/home/pi/cctv_rpi/images/image_20190713_182001.jpg'
+duration 1
+file '/home/pi/cctv_rpi/images/image_20190713_182101.jpg'
+duration 1
+file '/home/pi/cctv_rpi/images/image_20190713_182202.jpg'
+duration 1

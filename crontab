@@ -1,0 +1,2 @@
+*/1 * * * *     pi    /home/pi/take-pic.sh >> /home/pi/crontab.log 
+#59 23 * * *     pi    /home/pi/temp-logger-s3-upload.sh >> /home/pi/crontab.log#
